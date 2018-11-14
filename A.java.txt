@@ -1,5 +1,5 @@
 class A{
-void add()
+void add(int a,int b)
 {
 
 }
